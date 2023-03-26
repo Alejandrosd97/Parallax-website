@@ -7,9 +7,9 @@ import React from 'react'
 export default function Image(props) {
   return (
     <Parallax bgImage={props.foto} strength={300} className='imagen'>
-        {/* <div className="titulo-principal" id={props.titulo}>
+        <div className="titulo-principal" id={props.titulo}>
             <span>{props.titulo}</span>
-        </div> */}
+        </div>
     </Parallax>
   )
 }

@@ -1,5 +1,5 @@
 .navbar{
-    padding:0px 60px;
+    padding:0px 150px;
     position:absolute;
     top:0px;
     left:0px;
@@ -22,4 +22,8 @@
     text-transform:uppercase;
     font-weight:bold;
     letter-spacing:3px;
+}
+
+.navbar li:hover{
+    color:gray
 }
