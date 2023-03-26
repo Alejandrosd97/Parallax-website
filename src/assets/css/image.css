@@ -1,0 +1,23 @@
+.imagen{
+    position:relative;
+    height: 100vh;
+    width: 100%;
+}
+
+.titulo-principal{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+}
+
+.titulo-principal span{
+    color:white;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    font-size:28px;
+    letter-spacing: 5px;
+    background-color: rgba(51, 51, 51, 0.3);
+}

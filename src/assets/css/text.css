@@ -1,0 +1,14 @@
+.text{
+    padding:20px;
+    width:90%;
+    max-width:800px;
+    margin:auto;
+}
+
+.text h2, text p{
+    text-align:center;
+}
+
+.text p{
+    text-align:justify
+}
