@@ -22,8 +22,13 @@ a{
   color:white;
 }
 
+img{
+  height: 100% !important;
+  object-fit: cover;
+}
+
 a:hover{
-    color:gray
+    color:rgba(51, 51, 51, 0.5)
 }
 
 html {

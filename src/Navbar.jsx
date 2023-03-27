@@ -4,10 +4,10 @@ export default function Navbar() {
   return (
     <div className='navbar'>
         <ul>
-            <li><a href='/#primero'>primero</a></li>
-            <li><a href='/#segundo'>segundo</a></li>
-            <li><a href='/#tercero'>tercero</a></li>
-            <li><a href='/#cuarto'>cuarto</a></li>
+            <li><a href='/#primero'>Journey</a></li>
+            <li><a href='/#wildlife'>Wildlife</a></li>
+            <li><a href='/#tercero'>Landscapes</a></li>
+            <li><a href='/#freedom'>Freedom</a></li>
         </ul>
     </div>
   )
