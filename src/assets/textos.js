@@ -1,3 +1,3 @@
 export const texto = [
-    ''
+    'Are you one of those who dream of living inside a documentary film and walking with your camera through the savannah, photographing leopards, rhinos, elephants and buffaloes just a few metres away? Then wake up and pack your bags, we are going on safari to Africa! Because a safari in Tanzania is to feel connected with nature, to be able to contemplate endangered animals such as the black rhinoceros in their natural habitat and to look for the first light of dawn on the horizon of a sky tinged with orange'
 ]

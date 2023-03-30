@@ -1,8 +1,15 @@
+.full-text{
+    background-color:white;
+}
+
 .text{
     padding:20px;
     width:90%;
     max-width:800px;
     margin:auto;
+    font-weight: bold;
+    line-height: 24px;
+    letter-spacing: 1px;
 }
 
 .text h2, text p{

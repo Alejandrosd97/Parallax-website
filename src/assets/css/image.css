@@ -5,6 +5,10 @@
     width: 100%;
 }
 
+.imagen img{
+    object-fit:cover
+}
+
 .titulo-principal{
     display:flex;
     align-items: center;
