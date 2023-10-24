@@ -9,6 +9,6 @@ export default function Navbar() {
             <li><a href='/#landscapes'>Landscapes</a></li>
             <li><a href='/#freedom'>Freedom</a></li>
         </ul>
-    </div>
+    </div> 
   )
 }

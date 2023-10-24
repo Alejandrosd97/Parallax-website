@@ -3,6 +3,19 @@ body {
   margin: 0;
   font-family: 'Montserrat';
   max-width: 100vw;
+
+  --caf-noir: #422E0Eff;
+    --licorice: #23180Aff;
+    --jasmine: #FDD98Dff;
+    --earth-yellow: #FDC676ff;
+    --caf-noir-2: #553C16ff;
+  
+    /* CSS HSL */
+    --caf-noir: hsla(37, 65%, 16%, 1);
+    --licorice: hsla(34, 56%, 9%, 1);
+    --jasmine: hsla(41, 97%, 77%, 1);
+    --earth-yellow: hsla(36, 97%, 73%, 1);
+    --caf-noir-2: hsla(36, 59%, 21%, 1);
   
 }
 
@@ -34,5 +47,7 @@ a:hover{
 html {
   scroll-behavior: smooth;
 }
+
+
 
 
